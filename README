@@ -1,5 +1,19 @@
 Contact: Dongli Zhang (dongli.zhang0129@gmail.com)
 
-I will upload the comment soon.
+This is the graduate operating system (CSE506) course project in Stony Brook University.
 
-The final project is the process migration over TCP.
+This project includes all of 7 labs of MIT JOS.
+
+Lab 1: x86 assembly, boot loader
+Lab 2: Virtual memory
+Lab 3: Process/environments
+Lab 4: Multiprogramming and fork
+Lab 5: Filesystems
+Lab 6: Network driver
+Lab 7: Finish the Shell
+
+The final optional project is the process migration over TCP. I implement two
+migrations.
+(1) Naive Migration - Migrate everything together.
+(2) Smart Migration - Memory contents are migrated dynamically based on page
+fault.
