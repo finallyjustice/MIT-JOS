@@ -17,3 +17,6 @@ migrations.
 (1) Naive Migration - Migrate everything together.
 (2) Smart Migration - Memory contents are migrated dynamically based on page
 fault.
+
+I also finished 5 labs made by Shanghai Jiao Tong University. The 5 labs enhanced the hardware virtualization (Intel-VT) of JOS to boot a VM in JOS (on Bochs)
+link: https://github.com/finallyjustice/JOS-vmx
